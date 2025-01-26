@@ -59,7 +59,7 @@ public class lab_1{
             }
             
         }  
-        if(check==1)System.out.println(num+" is prime number");
+        if(check==1)System.out.println(num+" is prime number ");
 
     }
 }
